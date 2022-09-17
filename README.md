@@ -2,7 +2,7 @@
 - 👀 Interested in Blockchain Developement,Ethical Hacking, Cloud Computing
 - 🌱 Currently learning Python/Java
 - 💞️ Looking to collaborate on Blockchain Project
-- 📫 Twitter:- @adwait52 / Linkdin:-
+- 📫 Twitter:- https://twitter.com/adwait52?t=qoqa_LwsLVkfrMp6znCKoQ&s=08 / Linkdin:-https://www.linkedin.com/in/aanand-ad-wait-465188245
 
 <!---
 adwait52/adwait52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
