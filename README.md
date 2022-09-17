@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adwait52
-- 👀 I’m interested in Blockchain Developement
-- 🌱 I’m currently learning Python & Java
+- 👋 Hi, I’m Aanand alias Ad'wait
+- 👀 I’m interested in Blockchain Developement,Ethical Hacking, Cloud Computing
+- 🌱 I’m currently learning Python&Java, Blockchain
 - 💞️ I’m looking to collaborate on Blockchain Project
-- 📫 How to reach me ...
+- 📫 How to reach me ...twitter:-@adwait52
 
 <!---
 adwait52/adwait52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
