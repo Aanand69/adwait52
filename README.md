@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ad'wait</h1>
 
 <h3 align="center">Eat Repeat Code Sleep 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=ad'wait alt=ad'wait/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username = adwait alt=ad'wait/> </p>
 
 <p align="left"> <a href="https://twitter.com/adwait52" target="blank"><img src="https://img.shields.io/twitter/follow/adwait52?logo=twitter&style=for-the-badge" alt="adwait52" /></a> </p>
 
