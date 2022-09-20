@@ -12,13 +12,11 @@
 
 - 📫 Reach me at **adwait7@gmail.com**
 
-- ⚡ Fun fact ** I'm a Goood Storyteller | I Can assure you that The Story is Real !**
+- ⚡ Fun fact:  I'm a Goood Storyteller | I Can assure you that The Story is Real !
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/adwait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="adwait" height="30" width="40" /></a>
-<a href="https://dev.to/adwait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adwait" height="30" width="40" /></a>
 <a href="https://twitter.com/adwait52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adwait52" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Ad' wait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ad' wait" height="30" width="40" /></a>
 </p>
